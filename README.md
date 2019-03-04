@@ -1,5 +1,7 @@
 # sqlilab for Kali 4.19.0-kali3
 
+You can find the video on https://youtu.be/89iWaVoS1wo
+
  Install Instructions:
  ---------------------
  
