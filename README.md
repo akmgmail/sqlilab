@@ -1,5 +1,5 @@
-# sqlilab
-SQLILAB for Kali 4.19.0-kali3
+# sqlilab for Kali 4.19.0-kali3
+
  Install Instructions:
 
 Unzip the contents inside the apache folder, for example under /var/www
