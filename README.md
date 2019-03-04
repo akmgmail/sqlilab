@@ -5,7 +5,7 @@
 
 Unzip the contents inside the apache folder, for example under /var/www
 
-This will create a folder sql-labs under it. else you can use git command from within /var/www folder. /var/www folder and then use following command> git clone https://github.com/skyblueee/sqli-labs-php7.git sqli-labs.
+This will create a folder sql-labs under it. else you can use git command from within /var/www folder. /var/www folder and then use following command> git clone https://github.com/akmgmail/sqlilab.
 
 Open the file "db-creds.inc" which is under sql-connections folder inside the sql-labs folder.
 
