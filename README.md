@@ -11,7 +11,7 @@ Unzip the lab by the following command
 
 unzip sqlilabs.zip
 
-now copy the sqlilab directory to apache folder through the following command
+Now copy the sqlilab directory to apache folder through the following command
 
 cp -R sqlilab /var/www/html/
 
