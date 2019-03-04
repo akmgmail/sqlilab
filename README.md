@@ -17,7 +17,7 @@ cp -R sqlilab /var/www/html/
 
 Now we need to do some changes in MySQL to do this follow the following steps:
 
-start the mysql srevice by following command:
+start the mysql service by following command:
 
 service mysql start
 
@@ -31,9 +31,9 @@ now at Mysql prompt type the following command:
 
 use mysql;
 
-Now we will create a user it give it all premissions through the following command:
+Now we will create a user it give it all permissions through the following command:
 
-grant all privileges on "*.*" to 'hacker'@'localhost' identified by 'hacker';
+#grant all privileges on *.* to 'hacker'@'localhost' identified by 'hacker';
 
 Type ctrl+c to exit from mysql
 
