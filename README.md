@@ -33,7 +33,7 @@ use mysql;
 
 Now we will create a user it give it all premissions through the following command:
 
-grant all privileges on *.* to 'hacker'@'localhost' identified by 'hacker';
+grant all privileges on "*.*" to 'hacker'@'localhost' identified by 'hacker';
 
 Type ctrl+c to exit from mysql
 
