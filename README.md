@@ -56,6 +56,7 @@ $dbname1 = "challenges";
 Now you need to restart the MySQL service and apache2 Service by the following command:
 
 service mysql restart
+
 service apache2 restart
 
 Now on the browser type http://localhost/sqlilab
